@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<monster_collection>
+  <monsters>
+    <monster name ="1">
+      <monster_name>라디오</monster_name>
+      <attack_point>20</attack_point>
+      <health_point>200</health_point>
+      <value>30</value>
+    </monster>
+    <monster name ="2">
+      <monster_name>음표</monster_name>
+      <attack_point>10</attack_point>
+      <health_point>100</health_point>
+      <value>10</value>
+    </monster>
+    <monster name ="3">
+      <monster_name>가습기</monster_name>
+      <attack_point>20</attack_point>
+      <health_point>150</health_point>
+      <value>40</value>
+    </monster>
+  </monsters>
+</monster_collection>

@@ -1,0 +1,12 @@
+1,Note,1
+0,Note,0
+0.5,Humi,1
+1,Nor,2
+0,Nor,1
+1,Nor,0
+0.5,Humi,0
+1,Note,2
+0,Note,0
+0.5,Nor,1
+0.5,Nor,2
+0.5,Humi,2

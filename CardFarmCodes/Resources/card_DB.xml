@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<card_collection>
+  <cards>
+    <card_no name ="1">
+      <card_type>hero</card_type>
+      <card_name>나무꾼</card_name>
+      <card_data>나무꾼(근접유닛)</card_data>
+      <attack_point>7</attack_point>
+      <health_point>250</health_point>
+      <cost>120</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0.5</attack_delay>
+    </card_no>
+    <card_no name ="2">
+      <card_type>plant</card_type>
+      <card_name>옥수수</card_name>
+      <card_data>수확시 400골드 획득</card_data>
+      <attack_point>400</attack_point>
+      <health_point>100</health_point>
+      <cost>80</cost>
+      <grow_time>12</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="3">
+      <card_type>utilty</card_type>
+      <card_name>공격력 강화(이름미정)</card_name>
+      <card_data>공격력을 3올려 준다.</card_data>
+      <attack_point>3</attack_point>
+      <health_point>0</health_point>
+      <cost>50</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="4">
+      <card_type>hero</card_type>
+      <card_name>농부</card_name>
+      <card_data>농부(근접유닛)</card_data>
+      <attack_point>20</attack_point>
+      <health_point>300</health_point>
+      <cost>100</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>1</attack_delay>
+    </card_no>
+    <card_no name ="5">
+      <card_type>hero</card_type>
+      <card_name>낚시꾼</card_name>
+      <card_data>낚시꾼</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="6">
+      <card_type>hero</card_type>
+      <card_name>총잡이</card_name>
+      <card_data>총잡이(원거리유닛)</card_data>
+      <attack_point>15</attack_point>
+      <health_point>150</health_point>
+      <cost>110</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="7">
+      <card_type>hero</card_type>
+      <card_name>목수(톱쓰는애 미정)</card_name>
+      <card_data>목수</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="8">
+      <card_type>plant</card_type>
+      <card_name>토마토</card_name>
+      <card_data>수확시 400골드 생성 + 유닛공격력 4증가</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>50</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="9">
+      <card_type>plant</card_type>
+      <card_name>당근</card_name>
+      <card_data>수확시 400골드 생성</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="10">
+      <card_type>plant</card_type>
+      <card_name>수박</card_name>
+      <card_data>수확시 300골드 획득</card_data>
+      <attack_point>300</attack_point>
+      <health_point>100</health_point>
+      <cost>50</cost>
+      <grow_time>7</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="11">
+      <card_type>utilty</card_type>
+      <card_name>새참</card_name>
+      <card_data>체력을 30 회복시킨다.</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="12">
+      <card_type>utilty</card_type>
+      <card_name>거점 체력 회복</card_name>
+      <card_data>거점 체력을 400 회복시킨다.</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="13">
+      <card_type>utilty</card_type>
+      <card_name>황금 비료</card_name>
+      <card_data>수확 속도를 2배로 올려준다.</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>30</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="14">
+      <card_type>utilty</card_type>
+      <card_name>비료</card_name>
+      <card_data>수확 속도를 1.5배로 올려준다.</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>30</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="15">
+      <card_type>utilty</card_type>
+      <card_name>풍년</card_name>
+      <card_data>3분간 수확으로 얻는 골드 1.5배 증가</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>50</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="16">
+      <card_type>utilty</card_type>
+      <card_name>밥상 뒤엎기</card_name>
+      <card_data>카드를 전부 버리고 버린 카드 개수*2 만큼 공격력 증가</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="17">
+      <card_type>utilty</card_type>
+      <card_name>서리하기</card_name>
+      <card_data>필드위에 있는 수확물을 즉시 수확한다.(수확 골드 1/2)</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="18">
+      <card_type>utilty</card_type>
+      <card_name>심봤다!</card_name>
+      <card_data>즉시 골드를 50얻는다.</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="19">
+      <card_type>utilty</card_type>
+      <card_name>황금알</card_name>
+      <card_data>즉시 골드를 100얻는다</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>50</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="20">
+      <card_type>utilty</card_type>
+      <card_name>황금돼지</card_name>
+      <card_data>즉시 골드를 200얻는다</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="21">
+      <card_type>utilty</card_type>
+      <card_name>맥주 한잔</card_name>
+      <card_data>체력-30 공격력 +6</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="22">
+      <card_type>utilty</card_type>
+      <card_name>우유 한잔</card_name>
+      <card_data>체력+10 공격력 +3</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>400</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="23">
+      <card_type>utilty</card_type>
+      <card_name>화전농업</card_name>
+      <card_data>필드에 있는 수확물을 파괴하고 3분간 해당필드 수확량*2</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="24">
+      <card_type>utilty</card_type>
+      <card_name>비닐하우스</card_name>
+      <card_data>필드를 지정하고 해당필드 수확량*1.5</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="25">
+      <card_type>utilty</card_type>
+      <card_name>농민 봉기</card_name>
+      <card_data>필드위에 있는 모든 영웅유닛 공격력 +4</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="26">
+      <card_type>utilty</card_type>
+      <card_name>추수감사절</card_name>
+      <card_data>3분간 얻는 골드량*1.5</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="27">
+      <card_type>utilty</card_type>
+      <card_name>창고확장</card_name>
+      <card_data>최대 골드+ 10</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="28">
+      <card_type>utilty</card_type>
+      <card_name>밭확장</card_name>
+      <card_data>수확가능한 수확물 + 1</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="29">
+      <card_type>utilty</card_type>
+      <card_name>농민확보</card_name>
+      <card_data>배치가능한 유닛 +1</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="30">
+      <card_type>spell</card_type>
+      <card_name>바리게이트</card_name>
+      <card_data>튼튼한 바리게이트를 침</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="31">
+      <card_type>spell</card_type>
+      <card_name>벼베기</card_name>
+      <card_data>큰낫으로 휘두름</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+    <card_no name ="32">
+      <card_type>debuff</card_type>
+      <card_name>독버섯</card_name>
+      <card_data>전유닛 체력 -10</card_data>
+      <attack_point>0</attack_point>
+      <health_point>0</health_point>
+      <cost>0</cost>
+      <grow_time>0</grow_time>
+      <attack_delay>0</attack_delay>
+    </card_no>
+  </cards>
+</card_collection>
